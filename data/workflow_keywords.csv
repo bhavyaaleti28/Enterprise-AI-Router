@@ -1,0 +1,50 @@
+domain,workflow,keywords
+IT_SUPPORT,password_reset,password|forgot password|reset password|forgot my password
+IT_SUPPORT,account_access,access account|cannot access account|account access|locked out
+IT_SUPPORT,laptop_issue,laptop|broken laptop|laptop is not working|laptop problem
+IT_SUPPORT,software_installation,install software|install application|new software|application installed
+IT_SUPPORT,network_issue,wifi|wi-fi|internet|network|connection
+HR,leave_request,apply for leave|request leave|take leave|leave request
+HR,leave_balance,leave balance|remaining leave|leaves remaining|how many leaves
+HR,attendance_issue,attendance|absent|attendance record
+HR,payroll_query,salary|payroll|pay
+HR,benefits_query,benefits|employee benefits
+HR,employee_information_update,update employee information|update employee details|employee information
+FINANCE,expense_reimbursement,expense reimbursement|claim expense|expense claim|reimbursement
+FINANCE,invoice_query,invoice|copy of invoice
+FINANCE,payment_status,payment status|payment processed|payment
+FINANCE,budget_request,budget|available budget
+FINANCE,financial_report,financial report|financial reporting
+FINANCE,tax_query,tax|tax question
+OPERATIONS,process_query,process information|how does the process work|what is the process|process steps
+OPERATIONS,operational_request,operational request|submit operational request
+OPERATIONS,process_status,process status|status of process|current process status
+OPERATIONS,business_process_issue,business process problem|business process issue|problem with business process
+OPERATIONS,internal_document_request,internal document|company document
+OPERATIONS,operational_reporting,operational report|operations report
+FACILITIES,maintenance_request,AC broken|air conditioning|maintenance|repair|broken
+FACILITIES,equipment_issue,equipment|office equipment
+FACILITIES,workspace_request,different desk|workspace|desk
+FACILITIES,office_access,office access|access to office
+FACILITIES,cleaning_request,clean|cleaning|clean the office
+FACILITIES,meeting_room_request,meeting room|book meeting room|reserve meeting room
+FACILITIES,safety_issue,safety|unsafe|safety problem
+LEGAL,contract_review,review contract|contract review|review this contract
+LEGAL,contract_request,need a contract|request contract
+LEGAL,compliance_query,compliance|comply|regulations
+LEGAL,legal_document_request,legal document|copy of legal document
+LEGAL,policy_review,review policy|company policy
+LEGAL,legal_issue,legal issue|legal problem
+SECURITY,phishing_report,phishing|phishing email
+SECURITY,security_incident,security incident|security breach
+SECURITY,suspicious_activity,suspicious activity|unusual activity
+SECURITY,unauthorized_access,unauthorized access|accessed without permission
+SECURITY,data_security_issue,data security|data security issue
+SECURITY,security_policy_query,security policy|security policies
+SALES,lead_management,sales lead|new lead|potential customer
+SALES,opportunity_status,sales opportunity|opportunity status|deal status
+SALES,customer_information,customer information|customer details
+SALES,sales_process_query,sales process
+SALES,quotation_request,quotation|quote for customer
+SALES,sales_reporting,sales report|sales reporting
+SALES,customer_account_issue,customer account|customer account issue

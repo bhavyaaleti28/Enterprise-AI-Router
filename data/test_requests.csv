@@ -1,0 +1,58 @@
+request,expected_domain,expected_workflow
+"I forgot my company password",IT_SUPPORT,password_reset
+"I need to reset my company password",IT_SUPPORT,password_reset
+"I cannot access my account",IT_SUPPORT,account_access
+"My laptop is not working",IT_SUPPORT,laptop_issue
+"I need a new software installed",IT_SUPPORT,software_installation
+"My internet connection keeps dropping",IT_SUPPORT,network_issue
+"I need to apply for leave",HR,leave_request
+"How many leaves do I have remaining",HR,leave_balance
+"My attendance is incorrect",HR,attendance_issue
+"I have a question about my salary",HR,payroll_query
+"I need help with my employee benefits",HR,benefits_query
+"I need to update my employee information",HR,employee_information_update
+"I need to claim an expense",FINANCE,expense_reimbursement
+"I need a copy of an invoice",FINANCE,invoice_query
+"When will my payment be processed",FINANCE,payment_status
+"I need to know the available budget",FINANCE,budget_request
+"I need a financial report",FINANCE,financial_report
+"I have a question about tax",FINANCE,tax_query
+"What is the process for this business request",OPERATIONS,process_query
+"I need to submit an operational request",OPERATIONS,operational_request
+"What is the status of the current process",OPERATIONS,process_status
+"There is a problem with our business process",OPERATIONS,business_process_issue
+"I need an internal document",OPERATIONS,internal_document_request
+"I need an operational report",OPERATIONS,operational_reporting
+"The AC in my office is broken",FACILITIES,maintenance_request
+"The office equipment is not working",FACILITIES,equipment_issue
+"I need a different desk",FACILITIES,workspace_request
+"I need access to the office",FACILITIES,office_access
+"Please clean the meeting room",FACILITIES,cleaning_request
+"I need to book a meeting room",FACILITIES,meeting_room_request
+"There is a safety problem in the office",FACILITIES,safety_issue
+"Please review this contract",LEGAL,contract_review
+"I need a contract",LEGAL,contract_request
+"I have a compliance question",LEGAL,compliance_query
+"I need a legal document",LEGAL,legal_document_request
+"Please review this company policy",LEGAL,policy_review
+"I have a legal issue",LEGAL,legal_issue
+"I received a phishing email",SECURITY,phishing_report
+"There has been a security incident",SECURITY,security_incident
+"I noticed suspicious activity",SECURITY,suspicious_activity
+"Someone accessed my account without permission",SECURITY,unauthorized_access
+"I have a data security issue",SECURITY,data_security_issue
+"What is our security policy",SECURITY,security_policy_query
+"I need to add a new sales lead",SALES,lead_management
+"What is the status of this sales opportunity",SALES,opportunity_status
+"I need customer information",SALES,customer_information
+"I have a question about the sales process",SALES,sales_process_query
+"I need a quotation for a customer",SALES,quotation_request
+"I need a sales report",SALES,sales_reporting
+"There is an issue with a customer account",SALES,customer_account_issue
+"Tell me a joke",UNRECOGNISED,
+"What is the capital of France",UNRECOGNISED,
+"Recommend a good movie",UNRECOGNISED,
+"What is the meaning of life",UNRECOGNISED,
+"Tell me an interesting fact about space",UNRECOGNISED,
+"What is the population of India",UNRECOGNISED,
+"Who is the president of the United States",UNRECOGNISED,

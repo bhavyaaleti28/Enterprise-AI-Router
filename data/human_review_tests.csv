@@ -1,0 +1,8 @@
+request,expected_decision
+"I have an issue with my account",HUMAN_REVIEW
+"I need help from HR",HUMAN_REVIEW
+"I have a problem at the office",HUMAN_REVIEW
+"I need help with a company process",HUMAN_REVIEW
+"I have an issue with my computer",HUMAN_REVIEW
+"I need help with something in finance",HUMAN_REVIEW
+"I have a problem with a customer",HUMAN_REVIEW
