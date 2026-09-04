@@ -1,8 +1,6 @@
 import csv
 import json
 
-from httpx import request
-
 from router.classifier import classify_request
 from router.decision import make_decision
 
